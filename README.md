@@ -22,7 +22,7 @@
 * Rajouter un fichier .gitignore et ajouter le dosser /none dedans 
 * Refaire un git status afin de vérifier l'état de votre repository
 * Envoyer en ligne votre fichier .gitignore 
-
+* Ajouter un tag et pusher
 
 ## Exercice 2 à réaliser par 2!
 * Choisir un des 2 repos à utiliser 
@@ -40,5 +40,6 @@
 * Modifier chacun d'entre vous le commit précédent en mettant votre prénom et nom dessus
 * Montrer au prof comment faire cela.
 * Tout pusher
+* Ajouter un tag et pusher
 
 
